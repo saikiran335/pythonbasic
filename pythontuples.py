@@ -1,0 +1,12 @@
+s=("1","5","9","3","7")
+print(s)
+print(len(s))
+
+print(s[::])
+print(s[1:3])
+print(s[:4])
+print(s[3:])
+print(s[:3])
+print(s[:-1])
+print(s[-4:])
+print(type(s))
