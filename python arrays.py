@@ -1,0 +1,15 @@
+z=["sai","kiran","tirumala"]
+print(z)
+print(len(z))
+print(z.pop(2))
+print(z.remove("kiran"))
+print(z.append("durga"))
+print(z[0])
+print(z[1])
+
+print(z.clear())
+f=z.copy()
+print(f)
+print(z.count("sai"))
+print(z.reverse())
+print(z.sort())
